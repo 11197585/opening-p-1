@@ -1,0 +1,42 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  background: url("https://upload.cc/i/ZM3daW.png");
+  background-repeat: no-repeat;
+  background-size: 100%; 
+  width: 392px;
+}
+
+img {
+  max-width: 70%;
+  img:center;
+  margin: -50px 50px;
+  
+}
+
+h1 {
+   color: black;
+   -webkit-text-fill-color: white; /* Will override color (regardless of order) */
+   -webkit-text-stroke-width: 2px;
+   -webkit-text-stroke-color: white;
+   text-align: center;
+   margin: 70px 0px;
+   font-size: 40px;
+	 font-weight: bold;
+	 text-align: center;
+	 text-shadow: rgba(0, 0, 0, .3) 10px 8px 10px;
+  
+}
+
+
+
+ 
+.startbotton {
+  max-width: 150%;
+  img:center;
+  margin: 65px 10px;
+  
+}
+
+	
+
+
